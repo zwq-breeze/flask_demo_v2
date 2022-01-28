@@ -1,0 +1,27 @@
+[2020-04-28 21:30:44 +0800] [42088] [INFO] Starting gunicorn 19.9.0
+[2020-04-28 21:30:44 +0800] [42088] [INFO] Listening at: http://0.0.0.0:10001 (42088)
+[2020-04-28 21:30:44 +0800] [42088] [INFO] Using worker: gevent
+[2020-04-28 21:30:44 +0800] [42090] [INFO] Booting worker with pid: 42090
+[2020-04-28 21:30:44 +0800] [42091] [INFO] Booting worker with pid: 42091
+[2020-04-28 21:30:44 +0800] [42092] [INFO] Booting worker with pid: 42092
+[2020-04-28 21:30:44 +0800] [42093] [INFO] Booting worker with pid: 42093
+[2020-04-28 21:30:45 +0800] [42094] [INFO] Booting worker with pid: 42094
+[2020-04-28 21:30:45 +0800] [42095] [INFO] Booting worker with pid: 42095
+[2020-04-28 21:30:45 +0800] [42096] [INFO] Booting worker with pid: 42096
+[2020-04-28 21:30:45 +0800] [42097] [INFO] Booting worker with pid: 42097
+[2020-04-28 21:30:45 +0800] [42098] [INFO] Booting worker with pid: 42098
+[2020-04-28 21:35:37 +0800] [42401] [INFO] Booting worker with pid: 42401
+[2020-04-28 21:35:56 +0800] [42098] [INFO] Parent changed, shutting down: <Worker 42098>
+[2020-04-28 21:35:56 +0800] [42095] [INFO] Parent changed, shutting down: <Worker 42095>
+[2020-04-28 21:35:56 +0800] [42098] [INFO] Worker exiting (pid: 42098)
+[2020-04-28 21:35:56 +0800] [42095] [INFO] Worker exiting (pid: 42095)
+[2020-04-28 21:35:56 +0800] [42401] [INFO] Parent changed, shutting down: <Worker 42401>
+[2020-04-28 21:35:56 +0800] [42401] [INFO] Worker exiting (pid: 42401)
+[2020-04-28 21:35:56 +0800] [42096] [INFO] Parent changed, shutting down: <Worker 42096>
+[2020-04-28 21:35:56 +0800] [42096] [INFO] Worker exiting (pid: 42096)
+[2020-04-28 21:35:56 +0800] [42094] [INFO] Parent changed, shutting down: <Worker 42094>
+[2020-04-28 21:35:56 +0800] [42094] [INFO] Worker exiting (pid: 42094)
+[2020-04-28 21:35:56 +0800] [42097] [INFO] Parent changed, shutting down: <Worker 42097>
+[2020-04-28 21:35:56 +0800] [42093] [INFO] Parent changed, shutting down: <Worker 42093>
+[2020-04-28 21:35:56 +0800] [42097] [INFO] Worker exiting (pid: 42097)
+[2020-04-28 21:35:56 +0800] [42093] [INFO] Worker exiting (pid: 42093)

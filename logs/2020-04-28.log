@@ -1,0 +1,34 @@
+---- - 2020-04-28 21:18:07,134 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:18:07,135 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:30:46,363 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:30:46,364 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:30:46,477 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:30:46,480 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:30:46,480 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:30:46,478 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:30:46,509 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:30:46,511 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:30:46,581 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:30:46,582 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:30:46,582 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:30:46,583 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:30:46,624 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:30:46,627 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:30:46,638 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:30:46,638 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:30:46,691 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:30:46,692 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:32:27,446 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:32:27,447 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:33:08,105 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:33:08,105 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:35:38,705 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:35:38,705 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:35:57,201 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:35:57,201 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:36:10,961 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:36:10,961 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:56:21,838 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:56:21,839 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
+---- - 2020-04-28 21:56:26,471 - WARNING - app.py - create_app - 34 -  [-] Create seeds failed, may caused by first time start up. 
+---- - 2020-04-28 21:56:26,471 - WARNING - app.py - create_app - 35 - cannot import name 'NlpTask' from 'app.entity' (/Users/taylor/items/voc_admin_api_v2/app/entity/__init__.py)
